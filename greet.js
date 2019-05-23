@@ -1,3 +1,2 @@
-const helloWorld = (name = "Word") => {
-    return `hello ${name}!`;
-}
+const helloWorld = (name = "World") => `Hello ${name}!`;
+
